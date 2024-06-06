@@ -34,3 +34,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/njy622/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/njy622/Algorithm/tree/master/0338-counting-bits) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/njy622/Algorithm/tree/master/0338-counting-bits) |
