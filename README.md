@@ -37,8 +37,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/njy622/Algorithm/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/njy622/Algorithm/tree/master/0338-counting-bits) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/njy622/Algorithm/tree/master/0338-counting-bits) |
+# Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/njy622/Algorithm/tree/master/0118-pascals-triangle) |
