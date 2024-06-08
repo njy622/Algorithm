@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0118-pascals-triangle](https://github.com/njy622/Algorithm/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/njy622/Algorithm/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/njy622/Algorithm/tree/master/1013-fibonacci-number) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -47,3 +48,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/njy622/Algorithm/tree/master/0118-pascals-triangle) |
+# Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/njy622/Algorithm/tree/master/1013-fibonacci-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/njy622/Algorithm/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/njy622/Algorithm/tree/master/1013-fibonacci-number) |
