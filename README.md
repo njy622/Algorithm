@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/njy622/Algorithm/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/njy622/Algorithm/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/njy622/Algorithm/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/njy622/Algorithm/tree/master/1086-divisor-game) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/njy622/Algorithm/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/njy622/Algorithm/tree/master/1086-divisor-game) |
 # Recursion
 |  |
 | ------- |
@@ -60,3 +62,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/njy622/Algorithm/tree/master/1013-fibonacci-number) |
+# Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/njy622/Algorithm/tree/master/1086-divisor-game) |
+# Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/njy622/Algorithm/tree/master/1086-divisor-game) |
