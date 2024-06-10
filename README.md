@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/njy622/Algorithm/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/njy622/Algorithm/tree/master/0118-pascals-triangle) |
 # Math
 |  |
@@ -70,3 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/njy622/Algorithm/tree/master/1086-divisor-game) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/njy622/Algorithm/tree/master/0035-search-insert-position) |
