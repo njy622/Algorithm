@@ -5,5 +5,6 @@ class Solution:
                 for k in range(2):
                     if edges[i-1][j] == edges[i][k]:
                         return edges[i-1][j]
+                        break
 
 
