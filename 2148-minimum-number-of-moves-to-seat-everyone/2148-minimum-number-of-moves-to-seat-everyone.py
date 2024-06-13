@@ -5,7 +5,11 @@ class Solution:
         students.sort()
 
         for i in range(len(seats)):
-            count += abs(seats[i] - students[i])
+            if seats[i] > students[i]:
+                count += seats[i] - students[i]
+            else:
+                count += students[i] - seats[i]
+
         return count
 
                     
