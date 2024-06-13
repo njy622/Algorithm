@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/njy622/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/njy622/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/njy622/Algorithm/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/njy622/Algorithm/tree/master/0118-pascals-triangle) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/njy622/Algorithm/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/njy622/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Math
 |  |
 | ------- |
@@ -85,3 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/njy622/Algorithm/tree/master/1916-find-center-of-star-graph) |
+# Sorting
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/njy622/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
