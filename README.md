@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/njy622/Algorithm/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/njy622/Algorithm/tree/master/0118-pascals-triangle) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/njy622/Algorithm/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1580-shuffle-the-array](https://github.com/njy622/Algorithm/tree/master/1580-shuffle-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/njy622/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Math
 |  |
