@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/njy622/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1635-number-of-good-pairs](https://github.com/njy622/Algorithm/tree/master/1635-number-of-good-pairs) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -53,12 +54,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/njy622/Algorithm/tree/master/0118-pascals-triangle) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/njy622/Algorithm/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/njy622/Algorithm/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/njy622/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/njy622/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Math
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/njy622/Algorithm/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/njy622/Algorithm/tree/master/1086-divisor-game) |
+| [1635-number-of-good-pairs](https://github.com/njy622/Algorithm/tree/master/1635-number-of-good-pairs) |
 # Recursion
 |  |
 | ------- |
@@ -92,3 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/njy622/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/njy622/Algorithm/tree/master/1635-number-of-good-pairs) |
