@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/njy622/Algorithm/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/njy622/Algorithm/tree/master/1651-shuffle-string) |
+| [1899-count-items-matching-a-rule](https://github.com/njy622/Algorithm/tree/master/1899-count-items-matching-a-rule) |
 | [3194-find-words-containing-character](https://github.com/njy622/Algorithm/tree/master/3194-find-words-containing-character) |
 # Greedy
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1580-shuffle-the-array](https://github.com/njy622/Algorithm/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/njy622/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/njy622/Algorithm/tree/master/1651-shuffle-string) |
+| [1899-count-items-matching-a-rule](https://github.com/njy622/Algorithm/tree/master/1899-count-items-matching-a-rule) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/njy622/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3194-find-words-containing-character](https://github.com/njy622/Algorithm/tree/master/3194-find-words-containing-character) |
 # Math
