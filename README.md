@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/njy622/Algorithm/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/njy622/Algorithm/tree/master/1899-count-items-matching-a-rule) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/njy622/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2836-neither-minimum-nor-maximum](https://github.com/njy622/Algorithm/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/njy622/Algorithm/tree/master/3194-find-words-containing-character) |
 # Math
 |  |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/njy622/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2836-neither-minimum-nor-maximum](https://github.com/njy622/Algorithm/tree/master/2836-neither-minimum-nor-maximum) |
 # Hash Table
 |  |
 | ------- |
