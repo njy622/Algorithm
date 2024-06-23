@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1580-shuffle-the-array](https://github.com/njy622/Algorithm/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/njy622/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/njy622/Algorithm/tree/master/1651-shuffle-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/njy622/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1899-count-items-matching-a-rule](https://github.com/njy622/Algorithm/tree/master/1899-count-items-matching-a-rule) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/njy622/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2836-neither-minimum-nor-maximum](https://github.com/njy622/Algorithm/tree/master/2836-neither-minimum-nor-maximum) |
@@ -109,3 +110,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/njy622/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/njy622/Algorithm/tree/master/2406-decode-the-message) |
+# Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/njy622/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+# Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/njy622/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+# Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/njy622/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
