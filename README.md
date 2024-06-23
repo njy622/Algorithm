@@ -117,8 +117,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/njy622/Algorithm/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/njy622/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 # Simulation
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/njy622/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+# Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/njy622/Algorithm/tree/master/0969-number-of-recent-calls) |
+# Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/njy622/Algorithm/tree/master/0969-number-of-recent-calls) |
