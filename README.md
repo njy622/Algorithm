@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/njy622/Algorithm/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/njy622/Algorithm/tree/master/0118-pascals-triangle) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/njy622/Algorithm/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/njy622/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/njy622/Algorithm/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/njy622/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/njy622/Algorithm/tree/master/1651-shuffle-string) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/njy622/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/njy622/Algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 # Queue
 |  |
@@ -131,3 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/njy622/Algorithm/tree/master/0969-number-of-recent-calls) |
+# Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/njy622/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
