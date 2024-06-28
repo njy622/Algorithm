@@ -153,3 +153,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/njy622/Algorithm/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/njy622/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3055-maximum-odd-binary-number](https://github.com/njy622/Algorithm/tree/master/3055-maximum-odd-binary-number) |
+## String
+|  |
+| ------- |
+| [3055-maximum-odd-binary-number](https://github.com/njy622/Algorithm/tree/master/3055-maximum-odd-binary-number) |
+## Greedy
+|  |
+| ------- |
+| [3055-maximum-odd-binary-number](https://github.com/njy622/Algorithm/tree/master/3055-maximum-odd-binary-number) |
+<!---LeetCode Topics End-->
